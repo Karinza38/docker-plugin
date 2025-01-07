@@ -1,4 +1,4 @@
-# Docker plugin for Jenkins
+ # Docker plugin for Jenkins
 
 Note: This plugin is officially ["up for adoption"](https://www.jenkins.io/doc/developer/plugin-governance/adopt-a-plugin/#faq).
 It would benefit from having a new maintainer who uses it "for real work"
